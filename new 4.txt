@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Scavenger Hunt Daily 1",
+    "color": "#00d2ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -524,
+      "y": 68,
+      "z": -1590
+    }
+  },
+  {
+    "name": "Scavenger Hunt Daily 2",
+    "color": "#00d2ff",
+    "icon": "flag",
+    "visibility": "always",
+    "location": {
+      "x": -409,
+      "y": 46,
+      "z": -2056
+    }
+	//Testing
+  
+	/*
+	test
+	*/
+  }
+  //Testing
+  
+  /*
+  test
+  */
+]
