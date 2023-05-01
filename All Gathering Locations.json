@@ -318,6 +318,26 @@
       */
 	  
     },
+    {
+	  "name": "[4] Dernic Seed [Lv.110]",
+	  "color": "#aa00aa",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 641, 
+	    "y": 24, 
+	    "z": -1218 
+	  }
+
+      /*
+      Nodes:
+	    638, 23, -1227
+		632, 23, -1220
+		644, 23, -1208
+		652, 23, -1214
+      */
+	  
+    },
 //Mining
     {
 	  "name": "[10] Dernic [Lv.110]",
