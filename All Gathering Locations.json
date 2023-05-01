@@ -300,5 +300,22 @@
 	    1208, 132, -1099
       */
 	  
+    },
+    {
+	  "name": "[1] Dernic Seed [Lv.110]",
+	  "color": "#aa00aa",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1311, 
+	    "y": 143, 
+	    "z": -1048 
+	  }
+
+      /*
+      Nodes:
+	    1311, 143, -1048
+      */
+	  
     }
 ]
