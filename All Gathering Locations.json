@@ -1,14 +1,14 @@
 [
 	{
-		"name": "[2] Dernic Fish [Lv.110]",
-		"color": "#aa00aa",
-		"icon": "fishing",
-		"visibility": "always",
-		"location": {
-		  "x": 947,
-          "y": 71,
-          "z": -798
-	    }
+	  "name": "[2] Dernic Fish [Lv.110]",
+	  "color": "#aa00aa",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 947,
+		"y": 71,
+		"z": -798
+	  }
 
       /*
       Nodes:
@@ -18,15 +18,15 @@
 	  
     },
     {
-		"name": "[8] Dernic Fish [Lv.110]",
-		"color": "#aa00aa",
-		icon": "fishing",
-		"visibility": "always",
-		"location": {
-		  "x": 869,
-		  "y": 95,
-		  "z": -877
-		}
+	  "name": "[8] Dernic Fish [Lv.110]",
+	  "color": "#aa00aa",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 869,
+	    "y": 95,
+	    "z": -877
+	  }
 
       /*
       Nodes:
@@ -41,15 +41,15 @@
 	  
     },
     {
-		"name": "[2] Dernic Fish [Lv.110]",
-		"color": "#aa00aa",
-		"icon": "fishing",
-		"visibility": "always",
-		"location": {
-		  "x": 896,
-		  "y": 99,
-		  "z": -919
-		}
+	  "name": "[2] Dernic Fish [Lv.110]",
+	  "color": "#aa00aa",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 896,
+	    "y": 99,
+	    "z": -919
+	  }
 
       /*
       Nodes:
@@ -59,15 +59,15 @@
 	  
     },
     {
-		"name": "[5] Dernic Fish [Lv.110]",
-		"color": "#aa00aa",
-		"icon": "fishing",
-		"visibility": "always",
-		"location": {
-		  "x": 812,
-		  "y": 122,
-		  "z": -932
-		}
+	  "name": "[5] Dernic Fish [Lv.110]",
+	  "color": "#aa00aa",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 812,
+	    "y": 122,
+	    "z": -932
+	  }
 
       /*
       Nodes:
@@ -80,15 +80,15 @@
 	  
     },
     {
-		"name": "[13] Dernic Fish [Lv.110]",
-		"color": "#aa00aa",
-		"icon": "fishing",
-		"visibility": "always",
-		"location": {
-		  "x": 777,
-		  "y": 148,
-          "z": -987
-		}
+	  "name": "[13] Dernic Fish [Lv.110]",
+	  "color": "#aa00aa",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 777,
+	    "y": 148,
+		"z": -987
+	  }
 		
       /*
       Nodes:
@@ -109,15 +109,15 @@
 	  
     },
     {
-		"name": "[10] Dernic Fish [Lv.110]",
-		"color": "#aa00aa",
-		"icon": "fishing",
-		"visibility": "always",
-		"location": {
-		  "x": 1070,
-		  "y": 76,
-          "z": -914
-		}
+	  "name": "[10] Dernic Fish [Lv.110]",
+	  "color": "#aa00aa",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1070,
+	    "y": 76,
+		"z": -914
+	  }
 		
       /*
       Nodes:
@@ -135,15 +135,15 @@
 	  
     },
     {
-		"name": "[13] Dernic Fish [Lv.110]",
-		"color": "#aa00aa",
-		"icon": "fishing",
-		"visibility": "always",
-		"location": {
-		  "x": 1974,
-		  "y": 128,
-          "z": -1096
-		}
+	  "name": "[13] Dernic Fish [Lv.110]",
+	  "color": "#aa00aa",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1974,
+	    "y": 128,
+	    "z": -1096
+	  }
 		
       /*
       Nodes:
