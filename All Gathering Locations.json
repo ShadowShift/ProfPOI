@@ -268,6 +268,109 @@ Fucked up trout nodes in the middle of fantastic voyage
       */
 	  
 	},
+	{
+	  "name": "[2] Starfish [Lv.100]",
+	  "color": "#ffff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1147, 
+	    "y": 106, 
+	    "z": -4806
+	  }
+
+      /*
+      Nodes:
+	    1148, 105, -4807
+	    1146, 105, -4805
+      */
+	  
+	},
+	{
+	  "name": "[13] Starfish [Lv.100]",
+	  "color": "#ffff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1168, 
+	    "y": 33, 
+	    "z": -4966
+	  }
+
+      /*
+      Nodes:
+	    1170, 33, -4959
+	    1173, 33, -4960
+	    1166, 33, -4959
+	    1162, 33, -4960
+	    1159, 33, -4962
+	    1158, 33, -4965
+	    1158, 33, -4969
+	    1160, 33, -4973
+	    1162, 33, -4977
+	    1166, 33, -4977
+	    1173, 33, -4975
+	    1175, 33, -4969
+	    1176, 33, -4964
+      */
+	  
+	},
+	{
+	  "name": "[3] Starfish [Lv.100]",
+	  "color": "#ffff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 978, 
+	    "y": 132, 
+	    "z": -4872
+	  }
+
+      /*
+      Nodes:
+	    974, 131, -4874
+	    977, 131, -4874
+	    980, 131, -4875
+      */
+	  
+	},
+	{
+	  "name": "[3] Starfish [Lv.100]",
+	  "color": "#ffff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 779, 
+	    "y": 43, 
+	    "z": -4831
+	  }
+
+      /*
+      Nodes:
+	    775, 42, -4829
+	    776, 42, -4834
+	    782, 42, -4829
+      */
+	  
+	},
+	{
+	  "name": "[2] Starfish [Lv.100]",
+	  "color": "#ffff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 749, 
+	    "y": 81, 
+	    "z": -4854
+	  }
+
+      /*
+      Nodes:
+	    740, 80, -4855
+	    757, 80, -4853
+      */
+	  
+	},
 
 //Dernic
 	{
