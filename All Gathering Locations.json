@@ -555,6 +555,49 @@ Fucked up trout nodes in the middle of fantastic voyage
       */
     
 	},
+	{
+      "name": "[9] Starfish [Lv.100]",
+      "color": "#ffff55",
+      "icon": "fishing",
+      "visibility": "always",
+      "location": {
+        "x": 909,
+        "y": 62,
+        "z": -4686
+      }
+
+      /*
+      Nodes:
+	    916, 61, -4685
+	    915, 61, -4688
+	    912, 61, -4687
+	    909, 61, -4688
+	    910, 61, -4691
+	    912, 61, -4682
+	    909, 61, -4682
+	    900, 61, -4687
+	    908, 61, -4684
+      */
+    
+	},
+	{
+      "name": "[2] Starfish [Lv.100]",
+      "color": "#ffff55",
+      "icon": "fishing",
+      "visibility": "always",
+      "location": {
+        "x": 1193,
+        "y": 147,
+        "z": -4640
+      }
+
+      /*
+      Nodes:
+	    1194, 146, -4638
+	    1192, 146, -4642
+      */
+    
+	},
 
 //Dernic
 	{
