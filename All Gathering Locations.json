@@ -598,6 +598,23 @@ Fucked up trout nodes in the middle of fantastic voyage
       */
     
 	},
+	{
+      "name": "[3] Starfish [Lv.100]",
+      "color": "#ffff55",
+      "icon": "fishing",
+      "visibility": "always",
+      "location": {
+        "x": 1006, 
+        "y": 106, 
+        "z": -4706
+      }
+
+      /*
+      Nodes:
+	    1006, 106, -4706
+      */
+    
+	},
 
 //Dernic
 	{
