@@ -2808,6 +2808,120 @@ Fucked up trout nodes in the middle of fantastic voyage
 
 //Farming
     {
+	  "name": "[3] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": -841,
+	    "y": 48,
+	    "z": -6115
+	  }
+
+	  /* 
+	  Nodes:
+	    -839, 48, -6114
+	    -841, 48, -6117
+	    -842, 48, -6113
+	  */
+
+    },
+    {
+	  "name": "[6] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": -841,
+	    "y": 48,
+	    "z": -6156
+	  }
+
+	  /* 
+	  Nodes:
+	    -849, 48, -6155
+	    -845, 48, -6160
+	    -842, 48, -6154
+	    -840, 48, -6159
+	    -838, 48, -6154
+	    -834, 48, -6150
+	  */
+
+    },
+    {
+	  "name": "[3] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": -817,
+	    "y": 48,
+	    "z": -6150
+	  }
+
+	  /* 
+	  Nodes:
+	    -817, 48, -6155
+	    -818, 48, -6150
+	    -815, 48, -6146
+	  */
+
+    },
+    {
+	  "name": "[1] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": -812,
+	    "y": 48,
+	    "z": -6131
+	  }
+
+	  /* 
+	  Nodes:
+	    -812, 48, -6131
+	  */
+
+    },
+    {
+	  "name": "[3] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": -810,
+	    "y": 48,
+	    "z": -6115
+	  }
+
+	  /* 
+	  Nodes:
+	    -812, 48, -6116
+	    -808, 48, -6117
+	    -809, 48, -6114
+	  */
+
+    },
+    {
+	  "name": "[2] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": -869,
+	    "y": 48,
+	    "z": -6182
+	  }
+
+	  /* 
+	  Nodes:
+	    -871, 48, -6182
+	    -868, 48, -6182
+	  */
+
+    },
+    {
 	  "name": "[1] Hemp [Lv.100]",
 	  "color": "#00aa73",
 	  "icon": "farming",
