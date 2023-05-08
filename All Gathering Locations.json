@@ -1987,6 +1987,43 @@ Fucked up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+    {
+	  "name": "[2] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 515,
+	    "y": 50,
+	    "z": -4503
+	  }
+
+	  /* 
+	  Nodes:
+	    513, 49, -4503
+	    516, 49, -4502
+	  */
+
+    },	    
+    {
+	  "name": "[3] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 220,
+	    "y": 86,
+	    "z": -4335
+	  }
+
+	  /* 
+	  Nodes:
+	    218, 83, -4334
+	    221, 84, -4332
+	    223, 84, -4333
+	  */
+
+    },
 
 //Sky
 	{
