@@ -1479,7 +1479,7 @@ Fucked up trout nodes in the middle of fantastic voyage
 	    483, 26, -4438
 	  */
 
-},
+    },
     {
 	  "name": "[7] Bass [Lv.80]",
 	  "color": "#55ff55",
@@ -1502,7 +1502,7 @@ Fucked up trout nodes in the middle of fantastic voyage
 	    381, 26, -4651
 	  */
 
-},
+    },
     {
 	  "name": "[3] Bass [Lv.80]",
 	  "color": "#55ff55",
@@ -1521,7 +1521,7 @@ Fucked up trout nodes in the middle of fantastic voyage
 	    351, 26, -4736
 	  */
 
-},
+    },
     {
 	  "name": "[3] Bass [Lv.80]",
 	  "color": "#55ff55",
@@ -1540,7 +1540,7 @@ Fucked up trout nodes in the middle of fantastic voyage
 	    340, 26, -4771
 	  */
 
-},
+    },
     {
 	  "name": "[2] Bass [Lv.80]",
 	  "color": "#55ff55",
@@ -1558,7 +1558,7 @@ Fucked up trout nodes in the middle of fantastic voyage
 	    335, 26, -4813
 	  */
 
-},
+    },
     {
 	  "name": "[4] Bass [Lv.80]",
 	  "color": "#55ff55",
@@ -1578,7 +1578,7 @@ Fucked up trout nodes in the middle of fantastic voyage
 	    303, 53, -4803
 	  */
 
-},
+    },
     {
 	  "name": "[2] Bass [Lv.80]",
 	  "color": "#55ff55",
@@ -1596,7 +1596,7 @@ Fucked up trout nodes in the middle of fantastic voyage
 	    390, 26, -4877
 	  */
 
-},
+    },
     {
 	  "name": "[2] Bass [Lv.80]",
 	  "color": "#55ff55",
@@ -1614,7 +1614,7 @@ Fucked up trout nodes in the middle of fantastic voyage
 	    442, 26, -4981
 	  */
 
-},
+    },
     {
 	  "name": "[1] Bass [Lv.80]",
 	  "color": "#55ff55",
@@ -1631,7 +1631,362 @@ Fucked up trout nodes in the middle of fantastic voyage
 	    447, 26, -4945
 	  */
 
-},
+    },
+    {
+	  "name": "[6] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -10,
+	    "y": 42,
+	    "z": -4546
+	  }
+
+	  /* 
+	  Nodes:
+	    -6, 41, -4548
+	    -8, 41, -4551
+	    -11, 41, -4553
+	    -13, 41, -4551
+	    -14, 41, -4548
+	    -15, 41, -4545
+	  */
+
+    },
+    {
+	  "name": "[2] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 10,
+	    "y": 87,
+	    "z": -4450
+	  }
+
+	  /* 
+	  Nodes:
+	    11, 86, -4451
+	    8, 86, -4450
+	  */
+
+    },
+    {
+	  "name": "[8] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -21,
+	    "y": 65,
+	    "z": -4465
+	  }
+
+	  /* 
+	  Nodes:
+	    -27, 64, -4459
+	    -24, 64, -4461
+	    -27, 64, -4463
+	    -25, 64, -4468
+	    -19, 64, -4472
+	    -16, 64, -4467
+	    -13, 64, -4470
+	    -13, 64, -4464
+	  */
+
+    },
+    {
+	  "name": "[3] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 193,
+	    "y": 80,
+	    "z": -4411
+	  }
+
+	  /* 
+	  Nodes:
+	    195, 79, -4410
+	    193, 79, -4410
+	    192, 79, -4412
+	  */
+
+    },
+    {
+	  "name": "[4] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 144,
+	    "y": 42,
+	    "z": -4450
+	  }
+
+	  /* 
+	  Nodes:
+	    141, 39, -4463
+	    137, 39, -4447
+	    142, 40, -4439
+	    149, 40, -4450
+	  */
+
+    },
+    {
+	  "name": "[2] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 129,
+	    "y": 43,
+	    "z": -4532
+	  }
+
+	  /* 
+	  Nodes:
+	    124, 41, -4531
+	    134, 41, -4532
+	  */
+
+    },
+    {
+	  "name": "[6] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 106,
+	    "y": 42,
+	    "z": -4567
+	  }
+
+	  /* 
+	  Nodes:
+	    101, 41, -4572
+	    101, 41, -4566
+	    106, 41, -4559
+	    117, 41, -4560
+	    114, 41, -4552
+	    121, 41, -4547
+	  */
+
+    },
+    {
+	  "name": "[1] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 103,
+	    "y": 41,
+	    "z": -4608
+	  }
+
+	  /* 
+	  Nodes:
+	    103, 41, -4608
+	  */
+
+    },
+    {
+	  "name": "[4] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 102,
+	    "y": 53,
+	    "z": -4758
+	  }
+
+	  /* 
+	  Nodes:
+	    101, 52, -4747
+	    100, 52, -4763
+	    92, 52, -4765
+	    95, 52, -4772
+	  */
+
+    },
+    {
+	  "name": "[1] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 157,
+	    "y": 85,
+	    "z": -4789
+	  }
+
+	  /* 
+	  Nodes:
+	    157, 85, -4789
+	  */
+
+    },
+    {
+	  "name": "[11] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 122,
+	    "y": 43,
+	    "z": -4847
+	  }
+
+	  /* 
+	  Nodes:
+	    112, 42, -4838
+	    114, 42, -4843
+	    121, 42, -4845
+	    117, 42, -4853
+	    120, 42, -4855
+	    126, 42, -4854
+	    129, 42, -4850
+	    129, 42, -4843
+	    127, 42, -4838
+	    123, 42, -4836
+	    119, 42, -4834
+	  */
+
+    },
+    {
+	  "name": "[4] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 108,
+	    "y": 42,
+	    "z": -4997
+	  }
+
+	  /* 
+	  Nodes:
+	    105, 41, -4996
+	    106, 41, -5002
+	    110, 41, -4993
+	    114, 41, -4999
+	  */
+
+    },
+    {
+	  "name": "[4] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 69,
+	    "y": 43,
+	    "z": -5011
+	  }
+
+	  /* 
+	  Nodes:
+	    66, 42, -5005
+	    69, 42, -5006
+	    73, 42, -5009
+	    77, 42, -5014
+	  */
+
+    },
+    {
+	  "name": "[4] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 80,
+	    "y": 43,
+	    "z": -5086
+	  }
+
+	  /* 
+	  Nodes:
+	    80, 42, -5094
+	    87, 42, -5091
+	    81, 42, -5088
+	    83, 42, -5080
+	  */
+
+    },
+    {
+	  "name": "[1] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 550,
+	    "y": 118,
+	    "z": -4339
+	  }
+
+	  /* 
+	  Nodes:
+	    550, 118, -4339
+	  */
+
+    },
+    {
+	  "name": "[3] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 362,
+	    "y": 27,
+	    "z": -4404
+	  }
+
+	  /* 
+	  Nodes:
+	    355, 26, -4403
+	    367, 26, -4404
+	    372, 26, -4403
+	  */
+
+    },
+    {
+	  "name": "[2] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 418,
+	    "y": 27,
+	    "z": -4507
+	  }
+
+	  /* 
+	  Nodes:
+	    418, 26, -4510
+	    422, 26, -4508
+	  */
+
+    },
+    {
+	  "name": "[1] Bass [Lv.80]",
+	  "color": "#55ff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 435,
+	    "y": 26,
+	    "z": -4496
+	  }
+
+	  /* 
+	  Nodes:
+	    435, 26, -4496
+	  */
+
+    },
 
 //Sky
 	{
