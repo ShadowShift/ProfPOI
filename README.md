@@ -20,3 +20,43 @@ and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
 
 
 Follow [this link](https://forms.gle/HdXXdPpYHWD6LGhn9) and fill out the form, including level range of the nodes, node type, and a screenshot (including your current coordinates) of the location
+
+***
+## Current Progress
+
+- [ ] Lv. 1-10
+    - [ ] Copper
+    - [ ] Wheat
+    - [ ] Gudgeon
+- [ ] Lv. 10-20
+    - [ ] Granite
+    - [ ] Barley
+    - [ ] Trout
+- [ ] Lv. 20-30
+    - [ ] Gold
+    - [ ] Oats
+    - [ ] Salmon
+- [ ] Lv. 30-40
+    - [ ] Sandstone
+    - [ ] Malt
+    - [ ] Carp
+- [ ] Lv. 40-50
+    - [ ] Iron
+    - [ ] Hops
+    - [ ] Icefish
+- [ ] Lv. 50-60
+    - [ ] Silver
+    - [ ] Rye
+    - [ ] Piranha
+- [ ] Lv. 60-70
+    - [ ] Cobalt
+    - [ ] Millet
+    - [ ] Koi
+- [x] Lv. 70-80 (Kanderstone, Decay Roots, and Gylia Fish)
+- [x] Lv. 80-90 (Diamond, Rice, and Bass)
+- [ ] Lv. 90-100
+    - [ ] Molten
+    - [ ] Sorghum
+    - [ ] Molten Eel
+- [x] Lv. 100-110 (Voidstone, Hemp, and Starfish)
+- [x] Lv. 110+ (Dernic, Dernic Seed, and Dernic Fish)
