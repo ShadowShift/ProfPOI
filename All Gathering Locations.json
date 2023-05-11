@@ -2,7 +2,7 @@
 //Fishing
 
 /*
-Screwed up trout nodes in the middle of fantastic voyage
+Fucked up trout nodes in the middle of fantastic voyage
 2629, 37, -4138
 2625, 37, -4129
 2621, 37, -4138
@@ -462,6 +462,702 @@ Screwed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+    {
+	  "name": "[7] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -342,
+	    "y": 30,
+	    "z": -4909
+	  }
+
+	  /* 
+	  Nodes:
+	    -351, 29, -4915
+	    -348, 28, -4911
+	    -345, 29, -4918
+	    -336, 29, -4908
+	    -335, 29, -4915
+	    -331, 29, -4916
+	    -331, 29, -4916
+	  */
+
+    },
+    {
+	  "name": "[4] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -345,
+	    "y": 29,
+	    "z": -4820
+	  }
+
+	  /* 
+	  Nodes:
+	    -345, 29, -4824
+	    -343, 29, -4820
+	    -346, 29, -4817
+	    -344, 29, -4815
+	  */
+
+    },
+    {
+	  "name": "[3] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -334,
+	    "y": 29,
+	    "z": -4796
+	  }
+
+	  /* 
+	  Nodes:
+	    -336, 29, -4799
+	    -335, 29, -4795
+	    -334, 29, -4793
+	  */
+
+    },
+    {
+	  "name": "[4] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -358,
+	    "y": 30,
+	    "z": -4753
+	  }
+
+	  /* 
+	  Nodes:
+	    -353, 30, -4756
+	    -356, 30, -4752
+	    -363, 30, -4746
+	    -364, 30, -4749
+	  */
+
+    },
+    {
+	  "name": "[4] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -386,
+	    "y": 31,
+	    "z": -4732
+	  }
+
+	  /* 
+	  Nodes:
+	    -384, 31, -4734
+	    -388, 31, -4734
+	    -392, 31, -4731
+	    -411, 31, -4721
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -428,
+	    "y": 34,
+	    "z": -4705
+	  }
+
+	  /* 
+	  Nodes:
+	    -428, 34, -4705
+	  */
+
+    },
+    {
+	  "name": "[4] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -262,
+	    "y": 87,
+	    "z": -4371
+	  }
+
+	  /* 
+	  Nodes:
+	    -261, 87, -4376
+	    -259, 87, -4373
+	    -265, 87, -4369
+	    -264, 87, -4366
+	  */
+
+    },
+    {
+	  "name": "[6] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -282,
+	    "y": 87,
+	    "z": -4436
+	  }
+
+	  /* 
+	  Nodes:
+	    -279, 86, -4429
+	    -281, 86, -4431
+	    -280, 86, -4434
+	    -285, 86, -4434
+	    -285, 86, -4438
+	    -284, 86, -4441
+	  */
+
+    },
+    {
+	  "name": "[3] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -256,
+	    "y": 33,
+	    "z": -4593
+	  }
+
+	  /* 
+	  Nodes:
+	    -251, 33, -4593
+	    -257, 33, -4594
+	    -262, 33, -4591
+	  */
+
+    },
+    {
+	  "name": "[7] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -237,
+	    "y": 36,
+	    "z": -4630
+	  }
+
+	  /* 
+	  Nodes:
+	    -246, 36, -4624
+	    -248, 36, -4631
+	    -243, 36, -4634
+	    -236, 36, -4635
+	    -229, 36, -4631
+	    -231, 36, -4628
+	    -238, 36, -4621
+	  */
+
+    },
+    {
+	  "name": "[3] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -8,
+	    "y": 36,
+	    "z": -4633
+	  }
+
+	  /* 
+	  Nodes:
+	    -11, 36, -4631
+	    -8, 36, -4629
+	    -7, 36, -4636
+	  */
+
+    },
+    {
+	  "name": "[2] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -124,
+	    "y": 36,
+	    "z": -4755
+	  }
+
+	  /* 
+	  Nodes:
+	    -127, 36, -4754
+	    -123, 36, -4753
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 164,
+	    "y": 85,
+	    "z": -4783
+	  }
+
+	  /* 
+	  Nodes:
+	    164, 85, -4783
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -207,
+	    "y": 32,
+	    "z": -4999
+	  }
+
+	  /* 
+	  Nodes:
+	    -207, 32, -4999
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -189,
+	    "y": 31,
+	    "z": -5001
+	  }
+
+	  /* 
+	  Nodes:
+	    -189, 31, -5001
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -170,
+	    "y": 31,
+	    "z": -5002
+	  }
+
+	  /* 
+	  Nodes:
+	    -170, 31, -5002
+	  */
+
+    },
+    {
+	  "name": "[6] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -132,
+	    "y": 31,
+	    "z": -5043
+	  }
+
+	  /* 
+	  Nodes:
+	    -141, 31, -5021
+	    -142, 31, -5032
+	    -142, 31, -5041
+	    -142, 31, -5051
+	    -124, 31, -5055
+	    -118, 31, -5049
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -176,
+	    "y": 31,
+	    "z": -5090
+	  }
+
+	  /* 
+	  Nodes:
+	    -176, 31, -5090
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -203,
+	    "y": 31,
+	    "z": -5091
+	  }
+
+	  /* 
+	  Nodes:
+	    -203, 31, -5091
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -238,
+	    "y": 31,
+	    "z": -5077
+	  }
+
+	  /* 
+	  Nodes:
+	    -238, 31, -5077
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -264,
+	    "y": 31,
+	    "z": -5060
+	  }
+
+	  /* 
+	  Nodes:
+	    -264, 31, -5060
+	  */
+
+    },
+    {
+	  "name": "[9] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -582,
+	    "y": 37,
+	    "z": -5065
+	  }
+
+	  /* 
+	  Nodes:
+	    -569, 37, -5066
+	    -573, 37, -5071
+	    -582, 37, -5074
+	    -590, 37, -5071
+	    -595, 37, -5061
+	    -588, 37, -5056
+	    -579, 37, -5054
+	    -575, 37, -5057
+	    -570, 37, -5060
+	  */
+
+    },
+    {
+	  "name": "[4] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -301,
+	    "y": 31,
+	    "z": -5201
+	  }
+
+	  /* 
+	  Nodes:
+	    -298, 31, -5208
+	    -301, 31, -5204
+	    -300, 31, -5196
+	    -306, 31, -5193
+	  */
+
+    },
+    {
+	  "name": "[3] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -315,
+	    "y": 32,
+	    "z": -5173
+	  }
+
+	  /* 
+	  Nodes:
+	    -312, 31, -5174
+	    -314, 31, -5171
+	    -317, 31, -5170
+	  */
+
+    },
+    {
+	  "name": "[5] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -334,
+	    "y": 32,
+	    "z": -5157
+	  }
+
+	  /* 
+	  Nodes:
+	    -327, 31, -5153
+	    -330, 31, -5153
+	    -334, 31, -5151
+	    -339, 31, -5155
+	    -341, 31, -5154
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -384,
+	    "y": 31,
+	    "z": -5142
+	  }
+
+	  /* 
+	  Nodes:
+	    -384, 31, -5142
+	  */
+
+    },
+    {
+	  "name": "[3] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -416,
+	    "y": 31,
+	    "z": -5140
+	  }
+
+	  /* 
+	  Nodes:
+	    -410, 31, -5143
+	    -421, 31, -5136
+	    -425, 31, -5139
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -800,
+	    "y": 28,
+	    "z": -4740
+	  }
+
+	  /* 
+	  Nodes:
+	    -800, 28, -4740
+	  */
+
+    },
+    {
+	  "name": "[3] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -818,
+	    "y": 38,
+	    "z": -4896
+	  }
+
+	  /* 
+	  Nodes:
+	    -817, 38, -4900
+	    -821, 38, -4894
+	    -820, 38, -4891
+	  */
+
+    },
+    {
+	  "name": "[2] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -861,
+	    "y": 38,
+	    "z": -4880
+	  }
+
+	  /* 
+	  Nodes:
+	    -860, 38, -4882
+	    -861, 38, -4876
+	  */
+
+    },
+    {
+	  "name": "[3] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -849,
+	    "y": 41,
+	    "z": -4829
+	  }
+
+	  /* 
+	  Nodes:
+	    -835, 41, -4826
+	    -849, 41, -4836
+	    -865, 41, -4839
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -891,
+	    "y": 41,
+	    "z": -4853
+	  }
+
+	  /* 
+	  Nodes:
+	    -891, 41, -4853
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -902,
+	    "y": 41,
+	    "z": -4829
+	  }
+
+	  /* 
+	  Nodes:
+	    -902, 41, -4829
+	  */
+
+    },
+    {
+	  "name": "[2] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -986,
+	    "y": 41,
+	    "z": -4707
+	  }
+
+	  /* 
+	  Nodes:
+	    -983, 41, -4710
+	    -992, 41, -4704
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -989,
+	    "y": 41,
+	    "z": -4671
+	  }
+
+	  /* 
+	  Nodes:
+	    -989, 41, -4671
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -970,
+	    "y": 41,
+	    "z": -4653
+	  }
+
+	  /* 
+	  Nodes:
+	    -970, 41, -4653
+	  */
+
+    },
+    {
+	  "name": "[1] Gylia Fish [Lv.70]",
+	  "color": "#ff55ff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -1084,
+	    "y": 41,
+	    "z": -4484
+	  }
+
+	  /* 
+	  Nodes:
+	    -1084, 41, -4484
+	  */
+
+    },
+
 //Bass
     {
 	  "name": "[9] Bass [Lv.80]",
