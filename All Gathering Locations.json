@@ -4467,6 +4467,42 @@ Fucked up trout nodes in the middle of fantastic voyage
 
     },
     {
+	  "name": "[] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 190,
+	    "y": 98,
+	    "z": -4448
+	  }
+
+	  /* 
+	  Nodes:
+	    187, 98, -4447
+	    194, 98, -4450
+	  */
+
+    },	    
+    {
+	  "name": "[] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 199,
+	    "y": 116,
+	    "z": -4452
+	  }
+
+	  /* 
+	  Nodes:
+	    201, 115, -4456
+	    197, 114, -4447
+	  */
+
+    },
+    {
 	  "name": "[1] Hemp [Lv.100]",
 	  "color": "#00aa73",
 	  "icon": "farming",
