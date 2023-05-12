@@ -5044,6 +5044,92 @@ Fucked up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+    {
+	  "name": "[1] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 433,
+	    "y": 27,
+	    "z": -4940
+	  }
+
+	  /* 
+	  Nodes:
+	    433, 27, -4940
+	  */
+
+    },
+    {
+	  "name": "[1] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 392,
+	    "y": 27,
+	    "z": -4906
+	  }
+
+	  /* 
+	  Nodes:
+	    392, 27, -4906
+	  */
+
+    },
+    {
+	  "name": "[2] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 423,
+	    "y": 28,
+	    "z": -4903
+	  }
+
+	  /* 
+	  Nodes:
+	    424, 27, -4907
+	    419, 27, -4897
+	  */
+
+    },
+    {
+	  "name": "[1] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 353,
+	    "y": 46,
+	    "z": -4906
+	  }
+
+	  /* 
+	  Nodes:
+	    353, 46, -4906
+	  */
+
+    },
+    {
+	  "name": "[1] Rice [Lv.80]",
+	  "color": "#ddfff4",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 341,
+	    "y": 45,
+	    "z": -4892
+	  }
+
+	  /* 
+	  Nodes:
+	    341, 45, -4892
+	  */
+
+    },
 
 //Hemp
     {
