@@ -6209,6 +6209,26 @@ Fucked up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+    {
+	  "name": "[4] Kanderstone [Lv.70]",
+	  "color": "#00aaaa",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -1293,
+	    "y": 8,
+	    "z": -5560
+	  }
+
+	  /* 
+	  Nodes:
+	    -1299, 9, -5543
+	    -1316, 8, -5557
+	    -1280, 8, -5572
+	    -1277, 9, -5570
+	  */
+
+    },
 
 //Diamond
     {
