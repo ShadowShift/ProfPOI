@@ -6952,6 +6952,23 @@ Fucked up trout nodes in the middle of fantastic voyage
 
     },
     {
+	  "name": "[1] Diamond [Lv.80]",
+	  "color": "#55ffff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1152,
+	    "y": 106,
+	    "z": -4768
+	  }
+
+	  /* 
+	  Nodes: 
+	    1152, 106, -4768
+	  */
+
+    },
+    {
 	  "name": "[3] Voidstone [Lv.100]",
 	  "color": "#ff55ff",
 	  "icon": "mining",
