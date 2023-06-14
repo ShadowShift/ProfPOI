@@ -18,6 +18,399 @@ Fucked up trout nodes in the middle of fantastic voyage
 2647, 37, -4143
 2658, 37, -4140
 */
+
+//Icefish
+    {
+	  "name": "[3] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 44,
+	    "y": 64,
+	    "z": -972
+	  }
+
+	  /* 
+	  Nodes:
+	    46, 64, -970
+	    44, 64, -973
+	    41, 64, -974
+	  */
+
+    },
+    {
+	  "name": "2[] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 51,
+	    "y": 62,
+	    "z": -926
+	  }
+
+	  /* 
+	  Nodes:
+	    48, 64, -927
+	    53, 64, -924
+	  */
+
+    },
+    {
+	  "name": "[6] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 79,
+	    "y": 64,
+	    "z": -903
+	  }
+
+	  /* 
+	  Nodes:
+	    75, 64, -913
+	    76, 64, -908
+	    77, 64, -904
+	    75, 64, -901
+	    75, 64, -898
+	    76, 64, -895
+	  */
+
+    },
+    {
+	  "name": "[1] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 80,
+	    "y": 65,
+	    "z": -959
+	  }
+
+	  /* 
+	  Nodes:
+	    80, 65, -959
+	  */
+
+    },
+    {
+	  "name": "[1] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -94,
+	    "y": 67,
+	    "z": -945
+	  }
+
+	  /* 
+	  Nodes:
+	    -94, 67, -945
+	  */
+
+    },
+    {
+	  "name": "[3] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 50,
+	    "y": 66,
+	    "z": -851
+	  }
+
+	  /* 
+	  Nodes:
+	    51, 66, -854
+	    48, 66, -853
+	    45, 66, -850
+	  */
+
+    },
+    {
+	  "name": "[2] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 40,
+	    "y": 67,
+	    "z": -828
+	  }
+
+	  /* 
+	  Nodes:
+	    40, 66, -830
+	    39, 66, -826
+	  */
+
+    },
+    {
+	  "name": "[4] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 50,
+	    "y": 67,
+	    "z": -789
+	  }
+
+	  /* 
+	  Nodes:
+	    50, 66, -785
+	    48, 66, -788
+	    47, 66, -791
+	    47, 66, -794
+	  */
+
+    },
+    {
+	  "name": "[5] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 82,
+	    "y": 68,
+	    "z": -765
+	  }
+
+	  /* 
+	  Nodes:
+	    82, 67, -768
+	    78, 67, -766
+	    78, 67, -763
+	    80, 67, -761
+	    83, 67, -762
+	  */
+
+    },
+    {
+	  "name": "[4] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 96,
+	    "y": 68,
+	    "z": -749
+	  }
+
+	  /* 
+	  Nodes:
+	    96, 67, -753
+	    95, 67, -751
+	    95, 67, -748
+	    93, 67, -747
+	  */
+
+    },
+    {
+	  "name": "[4] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 78,
+	    "y": 69,
+	    "z": -561
+	  }
+
+	  /* 
+	  Nodes:
+	    75, 68, -569
+	    78, 68, -564
+	    75, 68, -559
+	    82, 68, -556
+	  */
+
+    },
+    {
+	  "name": "[5] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 82,
+	    "y": 69,
+	    "z": -498
+	  }
+
+	  /* 
+	  Nodes:
+	    75, 68, -507
+	    84, 68, -504
+	    86, 68, -502
+	    85, 68, -498
+	    83, 68, -493
+	  */
+
+    },
+    {
+	  "name": "[6] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 25,
+	    "y": 69,
+	    "z": -444
+	  }
+
+	  /* 
+	  Nodes:
+	    30, 68, -449
+	    28, 68, -444
+	    25, 68, -442
+	    26, 68, -439
+	    26, 68, -434
+	    23, 68, -432
+	  */
+
+    },
+    {
+	  "name": "[5] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13,
+	    "y": 69,
+	    "z": -358
+	  }
+
+	  /* 
+	  Nodes:
+	    9, 66, -339
+	    -6, 66, -358
+	    10, 64, -359
+	    8, 66, -365
+	    10, 66, -375
+	  */
+
+    },
+    {
+	  "name": "[16] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -103,
+	    "y": 71,
+	    "z": -748
+	  }
+
+	  /* 
+	  Nodes:
+	    -103, 68, -760
+	    -100, 68, -759
+	    -99, 68, -755
+	    -96, 68, -756
+	    -94, 68, -750
+	    -93, 68, -747
+	    -95, 68, -741
+	    -98, 68, -742
+	    -98, 68, -738
+	    -103, 68, -734
+	    -104, 68, -739
+	    -109, 68, -741
+	    -112, 68, -743
+	    -113, 68, -748
+	    -106, 68, -755
+	    -109, 68, -756
+	  */
+
+    },
+    {
+	  "name": "[1] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -205,
+	    "y": 74,
+	    "z": -749
+	  }
+
+	  /* 
+	  Nodes:
+	    -205, 73, -749
+	  */
+
+    },
+    {
+	  "name": "[1] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -175,
+	    "y": 29,
+	    "z": -502
+	  }
+
+	  /* 
+	  Nodes:
+	    -175, 28, -502
+	  */
+
+    },
+    {
+	  "name": "[11] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -222,
+	    "y": 21,
+	    "z": -445
+	  }
+
+	  /* 
+	  Nodes:
+	    -235, 18, -451
+	    -231, 17, -456
+	    -231, 17, -451
+	    -227, 18, -450
+	    -228, 18, -447
+	    -223, 18, -448
+	    -222, 17, -443
+	    -216, 18, -442
+	    -213, 19, -437
+	    -218, 18, -434
+	    -212, 18, -433
+	  */
+
+    },
+    {
+	  "name": "[6] Icefish [Lv.40]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": -227,
+	    "y": 21,
+	    "z": -379
+	  }
+
+	  /* 
+	  Nodes:
+	    -215, 20, -391
+	    -223, 20, -389
+	    -225, 20, -382
+	    -227, 20, -375
+	    -234, 20, -373
+	    -239, 20, -368
+	  */
+
+    },
+
 //Gylia
     {
 	  "name": "[6] Gylia Fish [Lv.70]",
@@ -6985,6 +7378,8 @@ Fucked up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+
+//Voidstone
     {
 	  "name": "[3] Voidstone [Lv.100]",
 	  "color": "#ff55ff",
