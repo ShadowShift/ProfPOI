@@ -43,7 +43,7 @@ Follow [this link](https://forms.gle/HdXXdPpYHWD6LGhn9) and fill out the form, i
 - [ ] Lv. 40-50
     - [ ] Iron
     - [ ] Hops
-    - [ ] Icefish
+    - [x] Icefish
 - [ ] Lv. 50-60
     - [ ] Silver
     - [ ] Rye
