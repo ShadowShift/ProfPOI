@@ -42,7 +42,7 @@ Follow [this link](https://forms.gle/HdXXdPpYHWD6LGhn9) and fill out the form, i
     - [ ] Carp
 - [ ] Lv. 40-50
     - [ ] Iron
-    - [ ] Hops
+    - [x] Hops
     - [x] Icefish
 - [ ] Lv. 50-60
     - [ ] Silver
