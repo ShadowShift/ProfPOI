@@ -39,7 +39,7 @@ Follow [this link](https://forms.gle/HdXXdPpYHWD6LGhn9) and fill out the form, i
 - [ ] Lv. 30-40
     - [ ] Sandstone
     - [ ] Malt
-    - [ ] Carp
+    - [x] Carp
 - [ ] Lv. 40-50
     - [ ] Iron
     - [x] Hops
