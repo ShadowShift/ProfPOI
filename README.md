@@ -37,7 +37,7 @@ Follow [this link](https://forms.gle/HdXXdPpYHWD6LGhn9) and fill out the form, i
     - [ ] Oats
     - [ ] Salmon
 - [ ] Lv. 30-40
-    - [ ] Sandstone
+    - [x] Sandstone
     - [ ] Malt
     - [x] Carp
 - [ ] Lv. 40-50
