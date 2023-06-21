@@ -19,7 +19,7 @@ and toggled on/off with: /wynntils map poiProvider toggle All Gather Locations
 ## How can you contribute?
 
 
-Follow [this link](https://forms.gle/HdXXdPpYHWD6LGhn9) and fill out the form, including level range of the nodes, node type, and a screenshot (including your current coordinates) of the location
+DM me on discord (shadowshiftg) with coordinates to the general area of the nodes, as well as a screenshot.
 
 ***
 ## Current Progress
@@ -54,7 +54,7 @@ Follow [this link](https://forms.gle/HdXXdPpYHWD6LGhn9) and fill out the form, i
     - [ ] Koi
 - [x] Lv. 70-80 (Kanderstone, Decay Roots, and Gylia Fish)
 - [x] Lv. 80-90 (Diamond, Rice, and Bass)
-- [ ] Lv. 90-100
+- [ ] Lv. 90-100 - Delayed until next map push
     - [ ] Molten
     - [ ] Sorghum
     - [ ] Molten Eel
