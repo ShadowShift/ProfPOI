@@ -7976,6 +7976,47 @@ Messed up trout nodes in the middle of fantastic voyage
       */
 	  
     },
+    {
+	  "name": "[5] Hemp [Lv.100]",
+	  "color": "#00aa73",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1005,
+	    "y": 43,
+	    "z": -4921
+	  }
+
+	  /* 
+	  Nodes:
+	    1003, 42, -4920
+	    1006, 42, -4919
+	    1006, 42, -4922
+	    1008, 42, -4922
+	    1007, 42, -4924
+	  */
+
+    },
+    {
+	  "name": "[2] Hemp [Lv.100]",
+	  "color": "#00aa73",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 982,
+	    "y": 108,
+	    "z": -4666
+	  }
+
+	  /* 
+	  Nodes:
+	    980, 107, -4669
+	    982, 107, -4663
+	  */
+
+    },
+
+
 
 //Dernic
     {
