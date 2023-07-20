@@ -10201,5 +10201,116 @@ Messed up trout nodes in the middle of fantastic voyage
 	    767, 109, -474
       */
 	  
+    },
+
+//Ingredient Gathering Locations
+
+//Mining
+    {
+	  "name": "[1] Larbonic Geode [Lv.105]",
+	  "color": "#6A329F",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1004,
+	    "y": 82,
+	    "z": -823
+	  }
+
+	  /* 
+	  Nodes:
+	    1004, 82, -823
+	  */
+
+    },
+    {
+	  "name": "[3] Larbonic Geode [Lv.105]",
+	  "color": "#6A329F",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1069,
+	    "y": 87,
+	    "z": -1037
+	  }
+
+	  /* 
+	  Nodes:
+	    1071, 86, -1053
+	    1092, 85, -1037
+	    1087, 72, -1057
+	  */
+
+    },
+    {
+	  "name": "[1] Larbonic Geode [Lv.105]",
+	  "color": "#6A329F",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 873,
+	    "y": 104,
+	    "z": -923
+	  }
+
+	  /* 
+	  Nodes:
+	    873, 104, -923
+	  */
+
+    },
+    {
+	  "name": "[4] Larbonic Geode [Lv.105]",
+	  "color": "#6A329F",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 858,
+	    "y": 119,
+	    "z": -975
+	  }
+
+	  /* 
+	  Nodes:
+	    849, 117, -992
+	    835, 118, -991
+	    827, 119, -988
+	    829, 115, -964
+	  */
+
+    },
+    {
+	  "name": "[1] Larbonic Geode [Lv.105]",
+	  "color": "#6A329F",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 849,
+	    "y": 134,
+	    "z": -1010
+	  }
+
+	  /* 
+	  Nodes:
+	    849, 134, -1010
+	  */
+
+    },
+    {
+	  "name": "[1] Larbonic Geode [Lv.105]",
+	  "color": "#6A329F",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1022,
+	    "y": 122,
+	    "z": -1040
+	  }
+
+	  /* 
+	  Nodes:
+	    1022, 122, -1040
+	  */
+
     }
 ]
