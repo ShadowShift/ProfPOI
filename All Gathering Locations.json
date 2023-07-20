@@ -10208,7 +10208,7 @@ Messed up trout nodes in the middle of fantastic voyage
 //Mining
     {
 	  "name": "[1] Larbonic Geode [Lv.105]",
-	  "color": "#6A329F",
+	  "color": "#ffe5a3F",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10225,7 +10225,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[3] Larbonic Geode [Lv.105]",
-	  "color": "#6A329F",
+	  "color": "#ffe5a3",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10244,7 +10244,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[1] Larbonic Geode [Lv.105]",
-	  "color": "#6A329F",
+	  "color": "#ffe5a3",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10261,7 +10261,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[4] Larbonic Geode [Lv.105]",
-	  "color": "#6A329F",
+	  "color": "#ffe5a3",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10281,7 +10281,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[1] Larbonic Geode [Lv.105]",
-	  "color": "#6A329F",
+	  "color": "#ffe5a3",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10298,7 +10298,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[1] Larbonic Geode [Lv.105]",
-	  "color": "#6A329F",
+	  "color": "#ffe5a3",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
