@@ -24,6 +24,7 @@ DM me on discord (shadowshiftg) with coordinates to the general area of the node
 ***
 ## Current Progress
 
+### Materials
 - [ ] Lv. 1-10
     - [ ] Copper
     - [ ] Wheat
@@ -54,9 +55,22 @@ DM me on discord (shadowshiftg) with coordinates to the general area of the node
     - [ ] Koi
 - [x] Lv. 70-80 (Kanderstone, Decay Roots, and Gylia Fish)
 - [x] Lv. 80-90 (Diamond, Rice, and Bass)
-- [ ] Lv. 90-100 - Delayed until next map push
+- [ ] Lv. 90-100
     - [ ] Molten
     - [ ] Sorghum
     - [ ] Molten Eel
-- [x] Lv. 100-110 (Voidstone, Hemp, and Starfish)
-- [x] Lv. 110+ (Dernic, Dernic Seed, and Dernic Fish)
+- [ ] Lv. 100-110 - Double checking node locations as of 2.0.3
+    - [ ] Voidstone
+    - [ ] Hemp
+    - [ ] Starfish
+- [ ] Lv. 110+  - Double checking node locations as of 2.0.3
+    - [ ] Dernic
+    - [ ] Dernic Seed
+    - [ ] Dernic Fish
+
+### Ingredients
+- [ ] Bamboo
+- [ ] Flerisi Tree
+- [ ] Abyssal Matter
+- [ ] Voidgloom
+- [x] Larbonic Geode
