@@ -10312,22 +10312,5 @@ Messed up trout nodes in the middle of fantastic voyage
 	    1022, 122, -1040
 	  */
 
-    },
-    {
-	  "name": "[1] Larbonic Geode [Lv.105]",
-	  "color": "#ffe5a3",
-	  "icon": "mining",
-	  "visibility": "always",
-	  "location": {
-	    "x": 1372,
-	    "y": 122,
-	    "z": -971
-	  }
-
-	  /* 
-	  Nodes:
-	    1022, 122, -1040
-	  */
-
     }
 ]
