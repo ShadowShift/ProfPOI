@@ -3,20 +3,20 @@
 
 /*
 Messed up trout nodes in the middle of fantastic voyage
-2629, 37, -4138
-2625, 37, -4129
-2621, 37, -4138
-2626, 37, -4150
-2628, 37, -4113
-2624, 37, -4119
-2621, 37, -4123
-2648, 37, -4112
-2652, 37, -4124
-2658, 37, -4128
-2652, 37, -4133
-2652, 37, -4144
-2647, 37, -4143
-2658, 37, -4140
+	    2629, 37, -4138
+	    2625, 37, -4129
+	    2621, 37, -4138
+	    2626, 37, -4150
+	    2628, 37, -4113
+	    2624, 37, -4119
+	    2621, 37, -4123
+	    2648, 37, -4112
+	    2652, 37, -4124
+	    2658, 37, -4128
+	    2652, 37, -4133
+	    2652, 37, -4144
+	    2647, 37, -4143
+	    2658, 37, -4140
 */
 
 //Carp
@@ -5813,7 +5813,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  
     },
     {
-	  "name": "[13] Dernic Fish [Lv.110]",
+	  "name": "[14] Dernic Fish [Lv.110]",
 	  "color": "#aa00aa",
 	  "icon": "fishing",
 	  "visibility": "always",
@@ -5825,19 +5825,20 @@ Messed up trout nodes in the middle of fantastic voyage
 
       /*
       Nodes:
-	    778, 147, -996
-	    783, 147, -994
-	    774, 147, -995
-	    771, 147, -993
-	    778, 127, -989
-	    775, 147, -988
-	    774, 147, -985
-	    781, 147, -987
-	    781, 147, -984
-	    771, 148, -973
-	    772, 148, -969
-	    775, 148, -966
-	    780, 148, -970
+	    957, 124, -1093
+	    963, 124, -1094
+	    966, 124, -1098
+	    968, 124, -1094
+	    963, 124, -1086
+	    966, 124, -1085
+	    968, 124, -1088
+	    971, 124, -1091
+	    973, 124, -1088
+	    979, 124, -1091
+	    982, 124, -1094
+	    984, 124, -1097
+	    983, 124, -1105
+	    978, 124, -1102
       */
 	  
     },
@@ -5895,6 +5896,26 @@ Messed up trout nodes in the middle of fantastic voyage
 	    978, 124, -1102
       */
 	  
+    },
+    {
+	  "name": "[4] Dernic Fish [Lv.110]",
+	  "color": "#55ffff",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1092,
+	    "y": 71,
+	    "z": -1057
+	  }
+
+	  /* 
+	  Nodes:
+	    1089, 70, -1059
+	    1092, 70, -1054
+	    1094, 70, -1053
+	    1095, 70, -1056
+	  */
+
     },
 
 //Farming
@@ -8020,7 +8041,7 @@ Messed up trout nodes in the middle of fantastic voyage
 
 //Dernic
     {
-	  "name": "[14] Dernic Seed [Lv.110]",
+	  "name": "[17] Dernic Seed [Lv.110]",
 	  "color": "#aa00aa",
 	  "icon": "farming",
 	  "visibility": "always",
@@ -8032,19 +8053,22 @@ Messed up trout nodes in the middle of fantastic voyage
 
       /*
       Nodes:
-	    1084, 124, -1137
-	    1087, 124, -1139
-	    1083, 124, -1140
-	    1086, 124, -1143
-	    1090, 124, -1144
-	    1092, 124, -1141
-	    1095, 124, -1142
-	    1101, 124, -1141
-	    1105, 124, -1141
-	    1105, 124, -1137
-	    1101, 124, -1131
-	    1099, 124, -1133
-	    1096, 124, -1134
+	    1088, 134, -1135
+	    1087, 134, -1139
+	    1084, 134, -1137
+	    1083, 134, -1140
+	    1086, 135, -1143
+	    1090, 135, -1144
+	    1092, 135, -1141
+	    1095, 135, -1142
+	    1101, 134, -1141
+	    1105, 134, -1141
+	    1105, 133, -1137
+	    1110, 133, -1139
+	    1109, 133, -1134
+	    1101, 133, -1131
+	    1099, 134, -1133
+	    1096, 134, -1134
 	    1093, 134, -1132
       */
 	  
@@ -8191,6 +8215,26 @@ Messed up trout nodes in the middle of fantastic voyage
 		652, 23, -1214
       */
 	  
+    },
+    {
+	  "name": "[4] Dernic Seed [Lv.110]",
+	  "color": "#55ffff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1109,
+	    "y": 105,
+	    "z": -1100
+	  }
+
+	  /* 
+	  Nodes:
+	    1114, 104, -1107
+	    1108, 104, -1103
+	    1103, 104, -1100
+	    1097, 104, -1097
+	  */
+
     },
 	
 //Mining
@@ -10014,7 +10058,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	
 //Dernic
     {
-	  "name": "[10] Dernic [Lv.110]",
+	  "name": "[15] Dernic [Lv.110]",
 	  "color": "#aa00aa",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -10026,16 +10070,21 @@ Messed up trout nodes in the middle of fantastic voyage
 
       /*
       Nodes:
-	    551, 88, -419
-	    546, 89, -417
-	    553, 86, -416
-	    545, 86, -414
-	    540, 88, -409
-	    539, 84, -405
-	    542, 84, -402
-	    546, 84, -403
-	    549, 84, -405
-	    554, 85, -406
+	    554, 84, -406
+	    549, 83, -405
+	    546, 83, -403
+	    544, 86, -401
+	    542, 83, -402
+	    539, 83, -405
+	    545, 83, -409
+	    543, 85, -411
+	    545, 85, -414
+	    547, 85, -418
+	    553, 85, -416
+	    550, 84, -411
+	    540, 87, -409
+	    546, 88, -417
+	    551, 87, -419
       */
 	  
     },
@@ -10154,33 +10203,36 @@ Messed up trout nodes in the middle of fantastic voyage
 	  
     },
     {
-	  "name": "[15] Dernic [Lv.110]",
+	  "name": "[18] Dernic [Lv.110]",
 	  "color": "#aa00aa",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
-	    "x": 622, 
+	    "x": 662, 
 	    "y": 85, 
 	    "z": -641 
 	  }
 
       /*
       Nodes:
+	    658, 87, -637
+	    654, 86, -631
+	    652, 86, -633
+	    651, 87, -637
+	    652, 86, -644
+	    659, 86, -644
+	    661, 87, -643
 	    672, 87, -632
 	    671, 86, -634
-	    671, 87, -640
+	    671, 86, -638
+	    671, 88, -641
 	    671, 90, -649
+	    667, 90, -653
 	    664, 91, -656
 	    661, 91, -656
 	    659, 90, -654
-	    653, 90, -650
 	    652, 92, -652
 	    651, 91, -650
-	    652, 86, -644
-	    651, 87, -637
-	    654, 86, -631
-	    661, 87, -643
-	    659, 86, -644
       */
 	  
     },
@@ -10208,7 +10260,7 @@ Messed up trout nodes in the middle of fantastic voyage
 //Mining
     {
 	  "name": "[1] Larbonic Geode [Lv.105]",
-	  "color": "#ffe5a3",
+	  "color": "#6A329F",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10225,7 +10277,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[3] Larbonic Geode [Lv.105]",
-	  "color": "#ffe5a3",
+	  "color": "#6A329F",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10244,7 +10296,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[1] Larbonic Geode [Lv.105]",
-	  "color": "#ffe5a3",
+	  "color": "#6A329F",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10261,7 +10313,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[4] Larbonic Geode [Lv.105]",
-	  "color": "#ffe5a3",
+	  "color": "#6A329F",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10281,7 +10333,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[1] Larbonic Geode [Lv.105]",
-	  "color": "#ffe5a3",
+	  "color": "#6A329F",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10298,7 +10350,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[1] Larbonic Geode [Lv.105]",
-	  "color": "#ffe5a3",
+	  "color": "#6A329F",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
