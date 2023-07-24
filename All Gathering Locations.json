@@ -9762,7 +9762,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  
     },
     {
-	  "name": "[1] Voidstone [Lv.100]",
+	  "name": "[3] Voidstone [Lv.100]",
 	  "color": "#ff55ff",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9774,32 +9774,32 @@ Messed up trout nodes in the middle of fantastic voyage
 
       /*
       Nodes:
-	    14001, 119, -4174
+	    13996, 121, -4171
+	    13999, 123, -4172
+	    14002, 121, -4179
       */
 	  
     },
     {
-	  "name": "[4] Voidstone [Lv.100]",
+	  "name": "[2] Voidstone [Lv.100]",
 	  "color": "#ff55ff",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
-	    "x": 13968, 
+	    "x": 13971, 
 	    "y": 122, 
-	    "z": -4229 
+	    "z": -4232 
 	  }
 
       /*
       Nodes:
-	    13971, 119, -4228
-	    13971, 120, -4232
-	    13965, 118, -4231
-	    13965, 120, -4227
+	    13970, 121, -4233
+	    13971, 123, -4231
       */
 	  
     },
     {
-	  "name": "[6] Voidstone [Lv.100]",
+	  "name": "[5] Voidstone [Lv.100]",
 	  "color": "#ff55ff",
 	  "icon": "mining",
 	  "visibility": "always",
@@ -9811,63 +9811,48 @@ Messed up trout nodes in the middle of fantastic voyage
 
       /*
       Nodes:
-	    13976, 115, -4206
-	    13987, 113, -4197
-	    13985, 111, -4197
-	    13981, 110, -4198
-	    13976, 111, -4199
-	    13975, 110, -4193
+	    13976, 116, -4205
+	    13985, 112, -4196
+	    13981, 111, -4197
+	    13976, 112, -4198
+	    13975, 111, -4192
       */
 	  
     },
     {
-	  "name": "[1] Voidstone [Lv.100]",
-	  "color": "#ff55ff",
-	  "icon": "mining",
-	  "visibility": "always",
-	  "location": {
-	    "x": 13962, 
-	    "y": 119, 
-	    "z": -4178 
-	  }
-
-      /*
-      Nodes:
-	    13962, 119, -4178
-      */
-	  
-    },
-    {
-	  "name": "[1] Voidstone [Lv.100]",
+	  "name": "[2] Voidstone [Lv.100]",
 	  "color": "#ff55ff",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
 	    "x": 14009, 
-	    "y": 120, 
-	    "z": -4221 
+	    "y": 123, 
+	    "z": -4217 
 	  }
 
       /*
       Nodes:
-	    14009, 120, -4221
+	    14010, 124, -4218
+	    14008, 121, -4217
       */
 	  
     },
     {
-	  "name": "[1] Voidstone [Lv.100]",
+	  "name": "[3] Voidstone [Lv.100]",
 	  "color": "#ff55ff",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
 	    "x": 13876, 
 	    "y": 112, 
-	    "z": -4187  
+	    "z": -4183 
 	  }
 
       /*
       Nodes:
-	    13876, 112, -4187
+	    13874, 114, -4181
+	    13876, 115, -4185
+	    13878, 113, -4186
       */
 	  
     },
@@ -10055,7 +10040,103 @@ Messed up trout nodes in the middle of fantastic voyage
       */
 	  
     },
-	
+    {
+	  "name": "[5] Voidstone [Lv.100]",
+	  "color": "#ff55ff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13836,
+	    "y": 114,
+	    "z": -4159
+	  }
+
+	  /* 
+	  Nodes:
+	    13835, 116, -4160
+	    13837, 118, -4162
+	    13833, 114, -4157
+	    13840, 116, -4156
+	    13841, 115, -4157
+	  */
+
+    },
+    {
+	  "name": "[1] Voidstone [Lv.100]",
+	  "color": "#ff55ff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13996,
+	    "y": 126,
+	    "z": -4007
+	  }
+
+	  /* 
+	  Nodes:
+	    13996, 126, -4007
+	  */
+
+    },
+    {
+	  "name": "[3] Voidstone [Lv.100]",
+	  "color": "#ff55ff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13960,
+	    "y": 127,
+	    "z": -3787
+	  }
+
+	  /* 
+	  Nodes:
+	    13964, 131, -3798
+	    13965, 133, -3801
+	    13954, 129, -3773
+	  */
+
+    },
+    {
+	  "name": "[2] Voidstone [Lv.100]",
+	  "color": "#ff55ff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13821,
+	    "y": 132,
+	    "z": -3798
+	  }
+
+	  /* 
+	  Nodes:
+	    13820, 133, -3799
+	    13821, 131, -3797
+	  */
+
+    },
+    {
+	  "name": "[5] Voidstone [Lv.100]",
+	  "color": "#ff55ff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13673,
+	    "y": 140,
+	    "z": -4040
+	  }
+
+	  /* 
+	  Nodes:
+	    13675, 127, -4047
+	    13673, 137, -4034
+	    13668, 138, -4038
+	    13666, 135, -4037
+	    13667, 134, -4041
+	  */
+
+    },
+
 //Dernic
     {
 	  "name": "[15] Dernic [Lv.110]",
@@ -10256,6 +10337,440 @@ Messed up trout nodes in the middle of fantastic voyage
     },
 
 //Ingredient Gathering Locations
+
+//Farming
+    {
+	  "name": "[2] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13970,
+	    "y": 118,
+	    "z": -4237
+	  }
+
+	  /* 
+	  Nodes:
+	    13960, 118, -4232
+	    13978, 118, -4244
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13960,
+	    "y": 118,
+	    "z": -4176
+	  }
+
+	  /* 
+	  Nodes:
+	    13960, 118, -4176
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14030,
+	    "y": 129,
+	    "z": -4102
+	  }
+
+	  /* 
+	  Nodes:
+	    14030, 129, -4102
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13893,
+	    "y": 112,
+	    "z": -4209
+	  }
+
+	  /* 
+	  Nodes:
+	    13893, 112, -4209
+	  */
+
+    },
+    {
+	  "name": "[3] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13840,
+	    "y": 112,
+	    "z": -4137
+	  }
+
+	  /* 
+	  Nodes:
+	    13861, 112, -4127
+	    13837, 111, -4130
+	    13817, 112, -4139
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13942,
+	    "y": 124,
+	    "z": -4106
+	  }
+
+	  /* 
+	  Nodes:
+	    13942, 124, -4106
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13993,
+	    "y": 123,
+	    "z": -3994
+	  }
+
+	  /* 
+	  Nodes:
+	    13993, 123, -3994
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13944,
+	    "y": 110,
+	    "z": -3963
+	  }
+
+	  /* 
+	  Nodes:
+	    13944, 110, -3963
+	  */
+
+    },
+    {
+	  "name": "[2] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13895,
+	    "y": 156,
+	    "z": -3952
+	  }
+
+	  /* 
+	  Nodes:
+	    13894, 153, -3931
+	    13902, 151, -3965
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13893,
+	    "y": 76,
+	    "z": -3969
+	  }
+
+	  /* 
+	  Nodes:
+	    13893, 76, -3969
+	  */
+
+    },
+    {
+	  "name": "[2] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13879,
+	    "y": 109,
+	    "z": -3876
+	  }
+
+	  /* 
+	  Nodes:
+	    13887, 115, -3883
+	    13869, 100, -3866
+	  */
+
+    },
+    {
+	  "name": "[3] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13973,
+	    "y": 129,
+	    "z": -3788
+	  }
+
+	  /* 
+	  Nodes:
+	    14004, 129, -3800
+	    13995, 127, -3773
+	    13938, 125, -3769
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14078,
+	    "y": 131,
+	    "z": -3698
+	  }
+
+	  /* 
+	  Nodes:
+	    14078, 131, -3698
+	  */
+
+    },
+    {
+	  "name": "[4] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13962,
+	    "y": 132,
+	    "z": -3661
+	  }
+
+	  /* 
+	  Nodes:
+	    13940, 132, -3639
+	    13910, 133, -3665
+	    13993, 131, -3665
+	    13998, 131, -3638
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13888,
+	    "y": 129,
+	    "z": -3765
+	  }
+
+	  /* 
+	  Nodes:
+	    13888, 129, -3765
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13824,
+	    "y": 129,
+	    "z": -3777
+	  }
+
+	  /* 
+	  Nodes:
+	    13824, 129, -3777
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13756,
+	    "y": 161,
+	    "z": -3807
+	  }
+
+	  /* 
+	  Nodes:
+	    13756, 161, -3807
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13744,
+	    "y": 159,
+	    "z": -3860
+	  }
+
+	  /* 
+	  Nodes:
+	    13744, 159, -3860
+	  */
+
+    },
+    {
+	  "name": "[9] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13690,
+	    "y": 179,
+	    "z": -3940
+	  }
+
+	  /* 
+	  Nodes:
+	    13704, 147, -3900
+	    13711, 162, -3931
+	    13668, 140, -3919
+	    13666, 159, -3973
+	    13680, 181, -3969
+	    13703, 144, -4001
+	    13714, 138, -3941
+	    13696, 129, -3968
+	    13663, 126, -3953
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14036,
+	    "y": 127,
+	    "z": -3894
+	  }
+
+	  /* 
+	  Nodes:
+	    14036, 127, -3894
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14080,
+	    "y": 151,
+	    "z": -3976
+	  }
+
+	  /* 
+	  Nodes:
+	    14080, 151, -3976
+	  */
+
+    },
+    {
+	  "name": "[3] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14198,
+	    "y": 113,
+	    "z": -3928
+	  }
+
+	  /* 
+	  Nodes:
+	    14194, 114, -3923
+	    14200, 113, -3926
+	    14201, 110, -3933
+	  */
+
+    },
+    {
+	  "name": "[3] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14200,
+	    "y": 143,
+	    "z": -3846
+	  }
+
+	  /* 
+	  Nodes:
+	    14204, 142, -3895
+	    14205, 141, -3799
+	    14177, 112, -3842
+	  */
+
+    },
+    {
+	  "name": "[3] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14091,
+	    "y": 136,
+	    "z": -3767
+	  }
+
+	  /* 
+	  Nodes:
+	    14135, 154, -3768
+	    14056, 151, -3774
+	    14081, 148, -3786
+	  */
+
+    },
 
 //Mining
     {
