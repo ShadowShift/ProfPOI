@@ -60,17 +60,14 @@ DM me on discord (shadowshiftg) with coordinates to the general area of the node
     - [ ] Sorghum
     - [ ] Molten Eel
 - [ ] Lv. 100-110 - Double checking node locations as of 2.0.3
-    - [ ] Voidstone
+    - [x] Voidstone
     - [ ] Hemp
     - [ ] Starfish
-- [ ] Lv. 110+  - Double checking node locations as of 2.0.3
-    - [ ] Dernic
-    - [ ] Dernic Seed
-    - [ ] Dernic Fish
+- [x] Lv. 110+ (Dernic, Dernic Seed, Dernic Fish)
 
 ### Ingredients
 - [ ] Bamboo
 - [ ] Flerisi Tree
 - [ ] Abyssal Matter
-- [ ] Voidgloom
+- [x] Voidgloom
 - [x] Larbonic Geode
