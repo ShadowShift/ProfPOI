@@ -64,7 +64,7 @@ DM me on discord (shadowshiftg) with coordinates to the general area of the node
 
 ### Ingredients
 - [ ] Bamboo
-- [ ] Flerisi Tree
+- [x] Flerisi Tree
 - [x] Abyssal Matter
 - [x] Voidgloom
 - [x] Larbonic Geode
