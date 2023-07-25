@@ -10911,6 +10911,95 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+//Woodcutting
+
+    {
+	  "name": "[1] Flerisi Trunk [Lv.85]",
+	  "color": "#2775FC",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1510,
+	    "y": 47,
+	    "z": -5318
+	  }
+
+	  /* 
+	  Nodes:
+	    1510, 47, -5318
+	  */
+
+    },	    
+    {
+	  "name": "[2] Flerisi Trunk [Lv.85]",
+	  "color": "#2775FC",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1375,
+	    "y": 10,
+	    "z": -5340
+	  }
+
+	  /* 
+	  Nodes:
+	    1372, 8, -5338
+	    1371, 8, -5346
+	  */
+
+    },	    
+    {
+	  "name": "[2] Flerisi Trunk [Lv.85]",
+	  "color": "#2775FC",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1340,
+	    "y": 13,
+	    "z": -5438
+	  }
+
+	  /* 
+	  Nodes:
+	    1336, 10, -5434
+	    1336, 10, -5443
+	  */
+
+    },	    
+    {
+	  "name": "[1] Flerisi Trunk [Lv.85]",
+	  "color": "#2775FC",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1256,
+	    "y": 44,
+	    "z": -5572
+	  }
+
+	  /* 
+	  Nodes:
+	    1256, 44, -5572
+	  */
+
+    },	    
+    {
+	  "name": "[1] Flerisi Trunk [Lv.85]",
+	  "color": "#2775FC",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1472,
+	    "y": 27,
+	    "z": -5089
+	  }
+
+	  /* 
+	  Nodes:
+	    1472, 27, -5089
+	  */
+
+    },	    
 //Fishing
 
     {
