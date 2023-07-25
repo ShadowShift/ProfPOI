@@ -10911,7 +10911,367 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+//Fishing
 
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1256,
+	    "y": 10,
+	    "z": -3999
+	  }
+
+	  /* 
+	  Nodes:
+	    1256, 10, -3999
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1297,
+	    "y": 8,
+	    "z": -3970
+	  }
+
+	  /* 
+	  Nodes:
+	    1297, 8, -3970
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1339,
+	    "y": 4,
+	    "z": -3993
+	  }
+
+	  /* 
+	  Nodes:
+	    1339, 4, -3993
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1346,
+	    "y": 10,
+	    "z": -3963
+	  }
+
+	  /* 
+	  Nodes:
+	    1346, 10, -3963
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1323,
+	    "y": 16,
+	    "z": -3965
+	  }
+
+	  /* 
+	  Nodes:
+	    1323, 16, -3965
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1382,
+	    "y": 18,
+	    "z": -3960
+	  }
+
+	  /* 
+	  Nodes:
+	    1382, 18, -3960
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1379,
+	    "y": 20,
+	    "z": -3950
+	  }
+
+	  /* 
+	  Nodes:
+	    1379, 20, -3950
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1370,
+	    "y": 22,
+	    "z": -3935
+	  }
+
+	  /* 
+	  Nodes:
+	    1370, 22, -3935
+	  */
+
+    },
+    {
+	  "name": "[2] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1388,
+	    "y": 16,
+	    "z": -3915
+	  }
+
+	  /* 
+	  Nodes:
+	    1388, 16, -3916
+	    1387, 17, -3913
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1376,
+	    "y": 20,
+	    "z": -3912
+	  }
+
+	  /* 
+	  Nodes:
+	    1376, 20, -3912
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1367,
+	    "y": 18,
+	    "z": -3889
+	  }
+
+	  /* 
+	  Nodes:
+	    1367, 18, -3889
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1404,
+	    "y": 25,
+	    "z": -3903
+	  }
+
+	  /* 
+	  Nodes:
+	    1404, 25, -3903
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1405,
+	    "y": 26,
+	    "z": -3924
+	  }
+
+	  /* 
+	  Nodes:
+	    1405, 26, -3924
+	  */
+
+    },
+    {
+	  "name": "[2] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1389,
+	    "y": 10,
+	    "z": -4003
+	  }
+
+	  /* 
+	  Nodes:
+	    1392, 11, -3999
+	    1386, 10, -4010
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1396,
+	    "y": 6,
+	    "z": -4023
+	  }
+
+	  /* 
+	  Nodes:
+	    1396, 6, -4023
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1397,
+	    "y": 6,
+	    "z": -4042
+	  }
+
+	  /* 
+	  Nodes:
+	    1397, 6, -4042
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1413,
+	    "y": 6,
+	    "z": -4072
+	  }
+
+	  /* 
+	  Nodes:
+	    1413, 6, -4072
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1452,
+	    "y": 6,
+	    "z": -4056
+	  }
+
+	  /* 
+	  Nodes:
+	    1452, 6, -4056
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1427,
+	    "y": 6,
+	    "z": -4035
+	  }
+
+	  /* 
+	  Nodes:
+	    1427, 6, -4035
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1450,
+	    "y": 11,
+	    "z": -4020
+	  }
+
+	  /* 
+	  Nodes:
+	    1450, 11, -4020
+	  */
+
+    },
+    {
+	  "name": "[1] Abyssal Matter [Lv.90]",
+	  "color": "#400781",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1343,
+	    "y": 61,
+	    "z": -4046
+	  }
+
+	  /* 
+	  Nodes:
+	    1343, 61, -4046
+	  */
+
+    },
 //Mining
     {
 	  "name": "[1] Larbonic Geode [Lv.105]",
