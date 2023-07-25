@@ -10911,6 +10911,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+
 //Woodcutting
 
     {
@@ -10929,7 +10930,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	    1510, 47, -5318
 	  */
 
-    },	    
+    },
     {
 	  "name": "[2] Flerisi Trunk [Lv.85]",
 	  "color": "#2775FC",
@@ -10947,7 +10948,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	    1371, 8, -5346
 	  */
 
-    },	    
+    },
     {
 	  "name": "[2] Flerisi Trunk [Lv.85]",
 	  "color": "#2775FC",
@@ -10965,7 +10966,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	    1336, 10, -5443
 	  */
 
-    },	    
+    },
     {
 	  "name": "[1] Flerisi Trunk [Lv.85]",
 	  "color": "#2775FC",
@@ -10982,7 +10983,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	    1256, 44, -5572
 	  */
 
-    },	    
+    },
     {
 	  "name": "[1] Flerisi Trunk [Lv.85]",
 	  "color": "#2775FC",
@@ -10999,7 +11000,309 @@ Messed up trout nodes in the middle of fantastic voyage
 	    1472, 27, -5089
 	  */
 
-    },	    
+    },
+    {
+	  "name": "[5] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1180,
+	    "y": 154,
+	    "z": -5082
+	  }
+
+	  /* 
+	  Nodes:
+	    1206, 157, -5074
+	    1178, 172, -5033
+	    1165, 167, -5110
+	    1183, 166, -5127
+	    1214, 154, -5133
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1405,
+	    "y": 140,
+	    "z": -5071
+	  }
+
+	  /* 
+	  Nodes:
+	    1405, 140, -5071
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1419,
+	    "y": 139,
+	    "z": -5277
+	  }
+
+	  /* 
+	  Nodes:
+	    1419, 139, -5275
+	  */
+
+    },
+    {
+	  "name": "[3] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1308,
+	    "y": 149,
+	    "z": -5259
+	  }
+
+	  /* 
+	  Nodes:
+	    1274, 150, -5225
+	    1322, 152, -5242
+	    1312, 147, -5299
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1352,
+	    "y": 152,
+	    "z": -5340
+	  }
+
+	  /* 
+	  Nodes:
+	    1352, 152, -5340
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1525,
+	    "y": 149,
+	    "z": -5384
+	  }
+
+	  /* 
+	  Nodes:
+	    1525, 149, -5384
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1395,
+	    "y": 148,
+	    "z": -5437
+	  }
+
+	  /* 
+	  Nodes:
+	    1395, 148, -5437
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1457,
+	    "y": 142,
+	    "z": -5483
+	  }
+
+	  /* 
+	  Nodes:
+	    1457, 142, -5483
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1528,
+	    "y": 159,
+	    "z": -5468
+	  }
+
+	  /* 
+	  Nodes:
+	    1528, 159, -5468
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1482,
+	    "y": 145,
+	    "z": -5568
+	  }
+
+	  /* 
+	  Nodes:
+	    1482, 145, -5568
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1389,
+	    "y": 159,
+	    "z": -5588
+	  }
+
+	  /* 
+	  Nodes:
+	    1389, 159, -5588
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1399,
+	    "y": 17,
+	    "z": -5491
+	  }
+
+	  /* 
+	  Nodes:
+	    1399, 17, -5491
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1340,
+	    "y": 8,
+	    "z": -5281
+	  }
+
+	  /* 
+	  Nodes:
+	    1340, 8, -5279
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1421,
+	    "y": 47,
+	    "z": -5206
+	  }
+
+	  /* 
+	  Nodes:
+	    1393, 5, -5237
+	    1409, 47, -5211
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1434,
+	    "y": 47,
+	    "z": -5209
+	  }
+
+	  /* 
+	  Nodes:
+	    1434, 47, -5207
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1436,
+	    "y": 16,
+	    "z": -5178
+	  }
+
+	  /* 
+	  Nodes:
+	    1436, 16, -5178
+	  */
+
+    },
+    {
+	  "name": "[6] Flerisi Tree [Lv.85]",
+	  "color": "#ff5555",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1276,
+	    "y": 9,
+	    "z": -5182
+	  }
+
+	  /* 
+	  Nodes:
+	    1311, 9, -5181
+	    1316, 9, -5225
+	    1259, 9, -5237
+	    1280, 10, -5148
+	    1267, 31, -5114
+	    1235, 40, -5122
+	  */
+
+    },
+
 //Fishing
 
     {
