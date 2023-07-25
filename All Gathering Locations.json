@@ -5730,6 +5730,146 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+    {
+	  "name": "[6] Starfish [Lv.100]",
+	  "color": "#ffff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1291,
+	    "y": 15,
+	    "z": -3973
+	  }
+
+	  /* 
+	  Nodes:
+	    1279, 18, -3967
+	    1282, 19, -3970
+	    1290, 19, -3980
+	    1295, 20, -3972
+	    1298, 21, -3974
+	    1301, 19, -3970
+	  */
+
+    },
+    {
+	  "name": "[4] Starfish [Lv.100]",
+	  "color": "#ffff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1330,
+	    "y": 17,
+	    "z": -3967
+	  }
+
+	  /* 
+	  Nodes:
+	    1326, 18, -3970
+	    1328, 18, -3964
+	    1334, 19, -3963
+	    1333, 21, -3967
+	  */
+
+    },
+    {
+	  "name": "[3] Starfish [Lv.100]",
+	  "color": "#ffff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1346,
+	    "y": 17,
+	    "z": -3986
+	  }
+
+	  /* 
+	  Nodes:
+	    1348, 21, -3986
+	    1345, 21, -3988
+	    1343, 20, -3985
+	  */
+
+    },
+    {
+	  "name": "[3] Starfish [Lv.100]",
+	  "color": "#ffff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1383,
+	    "y": 14,
+	    "z": -3986
+	  }
+
+	  /* 
+	  Nodes:
+	    1387, 17, -3985
+	    1382, 18, -3987
+	    1381, 18, -3984
+	  */
+
+    },
+    {
+	  "name": "[3] Starfish [Lv.100]",
+	  "color": "#ffff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1395,
+	    "y": 18,
+	    "z": -3961
+	  }
+
+	  /* 
+	  Nodes:
+	    1395, 21, -3958
+	    1397, 21, -3960
+	    1392, 18, -3963
+	  */
+
+    },
+    {
+	  "name": "[6] Starfish [Lv.100]",
+	  "color": "#ffff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1425,
+	    "y": 25,
+	    "z": -3966
+	  }
+
+	  /* 
+	  Nodes:
+	    1421, 30, -3961
+	    1422, 29, -3964
+	    1425, 29, -3962
+	    1431, 29, -3965
+	    1427, 29, -3970
+	    1424, 28, -3972
+	  */
+
+    },
+    {
+	  "name": "[3] Starfish [Lv.100]",
+	  "color": "#ffff55",
+	  "icon": "fishing",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1385,
+	    "y": 34,
+	    "z": -4027
+	  }
+
+	  /* 
+	  Nodes:
+	    1383, 33, -4028
+	    1385, 32, -4025
+	    1387, 32, -4030
+	  */
+
+    },
 
 //Dernic
     {
