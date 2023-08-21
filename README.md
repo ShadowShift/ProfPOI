@@ -53,8 +53,8 @@ DM me on discord (shadowshiftg) with coordinates to the general area of the node
     - [ ] Cobalt
     - [ ] Millet
     - [ ] Koi
-- [x] Lv. 70-80 (Kanderstone, Decay Roots, and Gylia Fish) Double checking node locations as of 2.0.3
-- [ ] Lv. 80-90 (Diamond, Rice, and Bass) Double checking node locations as of 2.0.3
+- [x] Lv. 70-80 (Kanderstone, Decay Roots, and Gylia Fish) 
+- [x] Lv. 80-90 (Diamond, Rice, and Bass)
 - [ ] Lv. 90-100
     - [ ] Molten
     - [ ] Sorghum
