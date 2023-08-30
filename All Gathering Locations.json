@@ -10037,6 +10037,150 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+    {
+	  "name": "[3] Molten [Lv.90]",
+	  "color": "#55ffff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 9,
+	    "y": 17,
+	    "z": -4623
+	  }
+
+	  /* 
+	  Nodes:
+	    7, 18, -4622
+	    10, 19, -4625
+	    8, 20, -4621
+	  */
+
+    },
+    {
+	  "name": "[6] Molten [Lv.90]",
+	  "color": "#55ffff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14281,
+	    "y": 61,
+	    "z": 28060
+	  }
+
+	  /* 
+	  Nodes:
+	    14290, 65, 28065
+	    14286, 62, 28064
+	    14281, 65, 28067
+	    14289, 65, 28055
+	    14275, 65, 28056
+	    14265, 61, 28057
+	  */
+
+    },
+    {
+	  "name": "[7] Molten [Lv.90]",
+	  "color": "#55ffff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14237,
+	    "y": 61,
+	    "z": 28061
+	  }
+
+	  /* 
+	  Nodes:
+	    14236, 65, 28054
+	    14237, 67, 28054
+	    14226, 65, 28056
+	    14218, 66, 28063
+	    14230, 63, 28066
+	    14241, 64, 28066
+	    14250, 65, 28065
+	  */
+
+    },
+    {
+	  "name": "[4] Molten [Lv.90]",
+	  "color": "#55ffff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14246,
+	    "y": 63,
+	    "z": 28036
+	  }
+
+	  /* 
+	  Nodes:
+	    14239, 64, 28039
+	    14241, 66, 28030
+	    14251, 68, 28031
+	    14254, 64, 28032
+	  */
+
+    },
+    {
+	  "name": "[3] Molten [Lv.90]",
+	  "color": "#55ffff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14268,
+	    "y": 64,
+	    "z": 28024
+	  }
+
+	  /* 
+	  Nodes:
+	    14258, 64, 28021
+	    14266, 65, 28016
+	    14272, 63, 28031
+	  */
+
+    },
+    {
+	  "name": "[1] Molten [Lv.90]",
+	  "color": "#55ffff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14319,
+	    "y": 60,
+	    "z": 28016
+	  }
+
+	  /* 
+	  Nodes:
+	    14319, 60, 28016
+	  */
+
+    },
+    {
+	  "name": "[8] Molten [Lv.90]",
+	  "color": "#55ffff",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14358,
+	    "y": 55,
+	    "z": 28020
+	  }
+
+	  /* 
+	  Nodes:
+	    14348, 61, 28031
+	    14354, 60, 28028
+	    14356, 61, 28026
+	    14361, 54, 28011
+	    14354, 56, 28021
+	    14364, 60, 28018
+	    14368, 55, 28006
+	    14372, 60, 28011
+	  */
+
+    },
 //Voidstone
     {
 	  "name": "[3] Voidstone [Lv.100]",
