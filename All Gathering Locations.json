@@ -9891,6 +9891,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	    1221, 42, -5639
 	    1217, 43, -5641
 	    1208, 42, -5644
+	    1202, 44, -5657
 	  */
 
     },
@@ -10015,6 +10016,24 @@ Messed up trout nodes in the middle of fantastic voyage
 	    1287, 122, -5553
 	    1283, 122, -5552
 	    1283, 123, -5555
+	  */
+
+    },
+    {
+	  "name": "[2] Molten [Lv.90]",
+	  "color": "#910200",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1204,
+	    "y": 7,
+	    "z": -5476
+	  }
+
+	  /* 
+	  Nodes:
+	    1203, 10, -5476
+	    1205, 9, -5476
 	  */
 
     },
@@ -11618,6 +11637,23 @@ Messed up trout nodes in the middle of fantastic voyage
 	  /* 
 	  Nodes:
 	    1395, 5, -5242
+	  */
+
+    },
+    {
+	  "name": "[1] Flerisi Trunk [Lv.85]",
+	  "color": "#2775FC",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1393,
+	    "y": 5,
+	    "z": -5237
+	  }
+
+	  /* 
+	  Nodes:
+	    1393, 5, -5237
 	  */
 
     },
