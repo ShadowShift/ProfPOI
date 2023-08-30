@@ -11302,6 +11302,23 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+    {
+	  "name": "[1] Flerisi Trunk [Lv.85]",
+	  "color": "#2775FC",
+	  "icon": "woodcutting",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1395,
+	    "y": 5,
+	    "z": -5242
+	  }
+
+	  /* 
+	  Nodes:
+	    1395, 5, -5242
+	  */
+
+    },
 
 //Fishing
 
