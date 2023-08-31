@@ -6898,6 +6898,62 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+    {
+	  "name": "[3] Decay [Lv.70]",
+	  "color": "#56390b",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": -1293,
+	    "y": 44,
+	    "z": -5424
+	  }
+
+	  /* 
+	  Nodes:
+	    -1299, 45, -5411
+	    -1288, 44, -5422
+	    -1284, 44, -5432
+	  */
+
+    },
+    {
+	  "name": "[4] Decay [Lv.70]",
+	  "color": "#56390b",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": -1306,
+	    "y": 38,
+	    "z": -5472
+	  }
+
+	  /* 
+	  Nodes:
+	    -1313, 45, -5460
+	    -1295, 44, -5461
+	    -1293, 44, -5470
+	    -1312, 45, -5486
+	  */
+
+    },
+    {
+	  "name": "[1] Decay [Lv.70]",
+	  "color": "#56390b",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": -1268,
+	    "y": 44,
+	    "z": -5409
+	  }
+
+	  /* 
+	  Nodes:
+	    -1268, 44, -5409
+	  */
+
+    },
 
 //Rice
     {
