@@ -7582,7 +7582,7 @@ Messed up trout nodes in the middle of fantastic voyage
     {
 	  "name": "[10] Sorghum [Lv.90]",
 	  "color": "#ff8814",
-	  "icon": "mining",
+	  "icon": "farming",
 	  "visibility": "always",
 	  "location": {
 	    "x": -1743,
@@ -7608,7 +7608,7 @@ Messed up trout nodes in the middle of fantastic voyage
     {
 	  "name": "[14] Sorghum [Lv.90]",
 	  "color": "#ff8814",
-	  "icon": "mining",
+	  "icon": "farming",
 	  "visibility": "always",
 	  "location": {
 	    "x": -1807,
@@ -7638,7 +7638,7 @@ Messed up trout nodes in the middle of fantastic voyage
     {
 	  "name": "[4] Sorghum [Lv.90]",
 	  "color": "#ff8814",
-	  "icon": "mining",
+	  "icon": "farming",
 	  "visibility": "always",
 	  "location": {
 	    "x": -1721,
@@ -7658,7 +7658,7 @@ Messed up trout nodes in the middle of fantastic voyage
     {
 	  "name": "[12] Sorghum [Lv.90]",
 	  "color": "#ff8814",
-	  "icon": "mining",
+	  "icon": "farming",
 	  "visibility": "always",
 	  "location": {
 	    "x": -1386,
@@ -7686,7 +7686,7 @@ Messed up trout nodes in the middle of fantastic voyage
     {
 	  "name": "[10] Sorghum [Lv.90]",
 	  "color": "#ff8814",
-	  "icon": "mining",
+	  "icon": "farming",
 	  "visibility": "always",
 	  "location": {
 	    "x": -1333,
@@ -7712,7 +7712,7 @@ Messed up trout nodes in the middle of fantastic voyage
     {
 	  "name": "[11] Sorghum [Lv.90]",
 	  "color": "#ff8814",
-	  "icon": "mining",
+	  "icon": "farming",
 	  "visibility": "always",
 	  "location": {
 	    "x": -1542,
@@ -7739,7 +7739,7 @@ Messed up trout nodes in the middle of fantastic voyage
     {
 	  "name": "[2] Sorghum [Lv.90]",
 	  "color": "#ff8814",
-	  "icon": "mining",
+	  "icon": "farming",
 	  "visibility": "always",
 	  "location": {
 	    "x": -1547,
@@ -7757,7 +7757,7 @@ Messed up trout nodes in the middle of fantastic voyage
     {
 	  "name": "[6] Sorghum [Lv.90]",
 	  "color": "#ff8814",
-	  "icon": "mining",
+	  "icon": "farming",
 	  "visibility": "always",
 	  "location": {
 	    "x": -1413,
@@ -7779,7 +7779,7 @@ Messed up trout nodes in the middle of fantastic voyage
     {
 	  "name": "[9] Sorghum [Lv.90]",
 	  "color": "#ff8814",
-	  "icon": "mining",
+	  "icon": "farming",
 	  "visibility": "always",
 	  "location": {
 	    "x": -1455,
@@ -7804,7 +7804,7 @@ Messed up trout nodes in the middle of fantastic voyage
     {
 	  "name": "[1] Sorghum [Lv.90]",
 	  "color": "#ff8814",
-	  "icon": "mining",
+	  "icon": "farming",
 	  "visibility": "always",
 	  "location": {
 	    "x": -1745,
