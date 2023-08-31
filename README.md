@@ -56,9 +56,9 @@ DM me on discord (shadowshiftg) with coordinates to the general area of the node
 - [x] Lv. 70-80 (Kanderstone, Decay Roots, and Gylia Fish) 
 - [x] Lv. 80-90 (Diamond, Rice, and Bass)
 - [ ] Lv. 90-100
-    - [ ] Molten
-    - [ ] Sorghum
-    - [ ] Molten Eel
+    - [ ] Molten - in progress
+    - [x] Sorghum
+    - [ ] Molten Eel - in progress
 - [x] Lv. 100-110 (Voidstone, Hemp, and Starfish)
 - [x] Lv. 110+ (Dernic, Dernic Seed, Dernic Fish)
 
