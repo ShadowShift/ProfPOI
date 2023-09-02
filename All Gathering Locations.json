@@ -10457,6 +10457,28 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+    {
+	  "name": "[6] Molten [Lv.90]",
+	  "color": "#ff5555",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": -7939,
+	    "y": 110,
+	    "z": -13591
+	  }
+
+	  /* 
+	  Nodes:
+	    -7931, 107, -13564
+	    -7936, 108, -13585
+	    -7939, 110, -13581
+	    -7933, 109, -13576
+	    -7937, 107, -13571
+	    -7928, 106, -13567
+	  */
+
+    },
 //Voidstone
     {
 	  "name": "[3] Voidstone [Lv.100]",
