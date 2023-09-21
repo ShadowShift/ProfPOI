@@ -10481,7 +10481,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[8] Molten [Lv.90]",
-	  "color": "#55ffff",
+	  "color": "#ff5555",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10505,7 +10505,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[14] Molten [Lv.90]",
-	  "color": "#55ffff",
+	  "color": "#ff5555",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10535,7 +10535,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[11] Molten [Lv.90]",
-	  "color": "#55ffff",
+	  "color": "#ff5555",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
@@ -10562,7 +10562,7 @@ Messed up trout nodes in the middle of fantastic voyage
     },
     {
 	  "name": "[14] Molten [Lv.90]",
-	  "color": "#55ffff",
+	  "color": "#ff5555",
 	  "icon": "mining",
 	  "visibility": "always",
 	  "location": {
