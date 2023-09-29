@@ -37,10 +37,7 @@ DM me on discord (shadowshiftg) with coordinates to the general area of the node
     - [ ] Gold
     - [ ] Oats
     - [ ] Salmon
-- [ ] Lv. 30-40
-    - [x] Sandstone
-    - [ ] Malt
-    - [x] Carp
+- [x] Lv. 30-40 (Sandstone, Malt, and Carp)
 - [ ] Lv. 40-50
     - [ ] Iron
     - [x] Hops
