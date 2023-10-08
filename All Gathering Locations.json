@@ -6009,7 +6009,7 @@ Messed up trout nodes in the middle of fantastic voyage
 	  
     },
     {
-	  "name": "[13] Dernic Fish [Lv.110]",
+	  "name": "[14] Dernic Fish [Lv.110]",
 	  "color": "#aa00aa",
 	  "icon": "fishing",
 	  "visibility": "always",
@@ -6027,13 +6027,14 @@ Messed up trout nodes in the middle of fantastic voyage
 	    971, 124, -1091
 	    968, 124, -1094
 	    966, 124, -1098
-	    962, 124, -1097
 	    957, 124, -1093
 	    963, 124, -1094
 	    979, 124, -1091
 	    984, 124, -1097
 	    983, 124, -1105
 	    978, 124, -1102
+	    968, 124, -1088
+	    982, 124, -1094
       */
 	  
     },
