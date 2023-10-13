@@ -12383,7 +12383,7 @@ UPPER MOLTEN HEIGHTS v
 
     },
     {
-	  "name": "[6] Flerisi Tree [Lv.85]",
+	  "name": "[5] Flerisi Tree [Lv.85]",
 	  "color": "#ff5555",
 	  "icon": "woodcutting",
 	  "visibility": "always",
@@ -12398,7 +12398,6 @@ UPPER MOLTEN HEIGHTS v
 	    1311, 9, -5181
 	    1316, 9, -5225
 	    1259, 9, -5237
-	    1280, 10, -5148
 	    1267, 31, -5114
 	    1235, 40, -5122
 	  */
