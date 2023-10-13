@@ -10699,7 +10699,26 @@ Messed up trout nodes in the middle of fantastic voyage
 	  */
 
     },
+    {
+	  "name": "[4] Molten Ore [Lv.90]",
+	  "color": "#ff5555",
+	  "icon": "mining",
+	  "visibility": "always",
+	  "location": {
+	    "x": 1411,
+	    "y": 47,
+	    "z": -5199
+	  }
 
+	  /* 
+	  Nodes:
+	    1406, 49, -5200
+	    1409, 47, -5196
+	    1411, 49, -5192
+	    1407, 51, -5188
+	  */
+
+    },
 /*
 
 LOWER MOLTEN HEIGHTS ^
