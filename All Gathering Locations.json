@@ -12338,23 +12338,6 @@ UPPER MOLTEN HEIGHTS v
 	  "icon": "woodcutting",
 	  "visibility": "always",
 	  "location": {
-	    "x": 1340,
-	    "y": 8,
-	    "z": -5281
-	  }
-
-	  /* 
-	  Nodes:
-	    1340, 8, -5279
-	  */
-
-    },
-    {
-	  "name": "[1] Flerisi Tree [Lv.85]",
-	  "color": "#ff5555",
-	  "icon": "woodcutting",
-	  "visibility": "always",
-	  "location": {
 	    "x": 1421,
 	    "y": 47,
 	    "z": -5206
