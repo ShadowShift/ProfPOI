@@ -12032,6 +12032,40 @@ UPPER MOLTEN HEIGHTS v
 	  */
 
     },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 14044,
+	    "y": 116,
+	    "z": -4228
+	  }
+
+	  /* 
+	  Nodes:
+	    14044, 116, -4228
+	  */
+
+    },
+    {
+	  "name": "[1] Voidgloom [Lv.105]",
+	  "color": "#ff55ff",
+	  "icon": "farming",
+	  "visibility": "always",
+	  "location": {
+	    "x": 13762,
+	    "y": 141,
+	    "z": -3859
+	  }
+
+	  /* 
+	  Nodes:
+	    13762, 141, -3859
+	  */
+
+    },
 
 //Woodcutting
 
