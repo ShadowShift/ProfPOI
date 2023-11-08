@@ -6786,7 +6786,7 @@ Messed up trout nodes in the middle of fantastic voyage
 
     },
     {
-	  "name": "[6] Decay Roots [Lv.70]",
+	  "name": "[5] Decay Roots [Lv.70]",
 	  "color": "#56390b",
 	  "icon": "farming",
 	  "visibility": "always",
@@ -6803,7 +6803,6 @@ Messed up trout nodes in the middle of fantastic voyage
 	    -622, 61, -5481
 	    -626, 61, -5476
 	    -629, 61, -5477
-	    -580, 41, -5177
 	  */
 
     },
